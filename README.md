@@ -1,7 +1,5 @@
 # <p align="center"> 👏 Hi, I'm WadeWen </p>
 
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=long-woo&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=long-woo&layout=compact)
-
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seweide&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=seweide&layout=compact)
 
 ## Languages and Tools:
