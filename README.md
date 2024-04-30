@@ -14,16 +14,7 @@
 
 ### Frontend
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30px" height="30px" alt="JS" title="JS" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="30px" height="30px" alt="TS" title="TS" /> 
-<img src="https://vuejs.org/images/logo.png" width="30px" height="30px" alt="Vue" title="Vue" /> 
-<img src="https://upload.wikimedia.org/wikipedia/zh/6/61/Wechat_mini_programs_logo.svg" height="30px" alt="微信小程序" title="微信小程序" /> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="30px" height="30px" alt="HTML" title="HTML" /> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="30px" height="30px" alt="CSS" title="CSS" /> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LESS_Logo.svg" height="30px" alt="Less" title="Less" /> 
-<img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" width="30px" height="30px" alt="Scss" title="Scss" /> 
-<img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" width="30px" height="30px" alt="Tailwind CSS" title="Tailwind CSS" /> 
-<img src="https://www.electronjs.org/assets/img/logo.svg" width="30px" height="30px" alt="Electron" title="Electron" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30px" height="30px" alt="JS" title="JS" /><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="30px" height="30px" alt="TS" title="TS" /> <img src="https://vuejs.org/images/logo.png" width="30px" height="30px" alt="Vue" title="Vue" /> <img src="https://upload.wikimedia.org/wikipedia/zh/6/61/Wechat_mini_programs_logo.svg" height="30px" alt="微信小程序" title="微信小程序" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="30px" height="30px" alt="HTML" title="HTML" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="30px" height="30px" alt="CSS" title="CSS" /> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LESS_Logo.svg" height="30px" alt="Less" title="Less" /> <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" width="30px" height="30px" alt="Scss" title="Scss" /> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" width="30px" height="30px" alt="Tailwind CSS" title="Tailwind CSS" /> <img src="https://www.electronjs.org/assets/img/logo.svg" width="30px" height="30px" alt="Electron" title="Electron" />
 
 ### Tools
 
