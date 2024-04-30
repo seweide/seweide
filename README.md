@@ -10,7 +10,7 @@
 
 ### Backend
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" width="30px" height="30px" alt="C#" title="C#" /> <img src="https://nodejs.org/static/images/favicons/favicon.png" width="30px" height="30px" alt="NodeJS" title="NodeJS" /> <img src="https://nuxt.com/icon.png" width="30px" height="30px" alt="NuxtJS" title="NuxtJS" /> <img src="https://deno.com/logo.svg" width="30px" height="30px" alt="Deno" title="Deno" /> <img src="https://bun.sh/logo-square.jpg" width="30px" height="30px" alt="Bun" title="Bun" />
+<img src="https://png.pngitem.com/pimgs/s/174-1746846_java-logo-hd-png-download.png" width="30px" height="30px" alt="Java" title="Java" /><img src="https://icons.veryicon.com/png/Application/Custom%20Round%20Yosemite/Python.png" width="30px" height="30px" alt="Pythom" title="Pythom" /><img src="https://www.svgrepo.com/download/452088/php.svg" width="30px" height="30px" alt="PHP" title="PHP" /><img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" width="30px" height="30px" alt="C#" title="C#" /> <img src="https://nodejs.org/static/images/favicons/favicon.png" width="30px" height="30px" alt="NodeJS" title="NodeJS" /> <img src="https://nuxt.com/icon.png" width="30px" height="30px" alt="NuxtJS" title="NuxtJS" /> <img src="https://deno.com/logo.svg" width="30px" height="30px" alt="Deno" title="Deno" /> <img src="https://bun.sh/logo-square.jpg" width="30px" height="30px" alt="Bun" title="Bun" />
 
 ### Frontend
 
